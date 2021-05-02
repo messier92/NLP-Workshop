@@ -31,4 +31,4 @@ Table of Contents
 6b. Attention
 6c. Transformer
 
-Please read "NLP with PyTorch" for diagrams and more information about each sub-topic.
+Please read "NLP with PyTorch.docx" for diagrams and more information about each sub-topic.
